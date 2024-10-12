@@ -19,7 +19,7 @@ users, and provides them with a chance to upgrade and/or update in order to
 protect their applications.
 
 For sensitive email communications, please use
-[our PGP key](https://facebook.com/nyakko.neko).
+[Facebook](https://facebook.com/nyakko.neko).
 
 ## Policy
 
