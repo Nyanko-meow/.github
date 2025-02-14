@@ -18,7 +18,7 @@ release prior to any public exposure; this helps protect the project's
 users, and provides them with a chance to upgrade and/or update in order to
 protect their applications.
 
-For more sensitive communications regarding the Project or repositories, please use [Telegram](https://https://t.me/nyakkome).
+For more sensitive communications regarding the Project or repositories, please use [Telegram](https://t.me/nyakkome).
 
 ## Policy
 
