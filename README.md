@@ -17,7 +17,7 @@
   <img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="facebook" height="40" width="40" />
 </a>
 <a href="https://zaloapp.com/qr/p/d5zlywo2uwg1" target="blank">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Zalo_logo.png/600px-Zalo_logo.png" alt="zalo" height="40" width="40" />
+  <img align="center" src="https://img.icons8.com/color/452/zalo.png" alt="zalo" height="40" width="40" />
 </a>
 <a href="https://t.me/nyakkome" target="blank">
   <img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="telegram" height="40" width="40" />
