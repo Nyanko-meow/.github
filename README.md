@@ -1,36 +1,56 @@
-# Laminas Organization Templates
+<h1 align="center">Hello 👋, I'm [Your Name]</h1>
+<h3 align="center">A passionate Software Engineering student from FPT University</h3>
+<p align="center">I enjoy creating clean and efficient code while learning new technologies to improve myself every day!</p>
+<img align="right" alt="Coding" width="330" src="https://images.unsplash.com/photo-1585079545028-6c09e6e45f14?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDR8fGNvZGluZ3xlbnwwfHx8fDE2NTYzMjg0OTM&ixlib=rb-1.2.1&q=80&w=400">
 
-> ## 🇷🇺 Русским гражданам
-> 
-> Мы, участники Laminas, родились и живем в разных странах. У многих из нас есть друзья, родственники и коллеги как в России, так и в Украине. Некоторые из нас родились в России. Некоторые из нас живут в России. У некоторых бабушки и дедушки сражались с фашистами во Второй мировой войне. Здесь никто не поддерживает фашизм.
-> 
-> У одного из нас есть украинская родственница, которая спаслась из дома вместе с сыном. Поезд задержался из-за бомбежки на дороге впереди. У нас есть друзья, которые прячутся в бомбоубежищах. Мы с тревогой ждем весточки от них после воздушных налетов, которые беспорядочно наносят удары и попадают по больницам, школам, детским садам и домам. Мы не берем это из каких-либо СМИ. Мы наблюдаем это напрямую.
-> 
-> Вы доверяете нам достаточно, чтоб использовать наши программы, и мы просим вас довериться нам вновь. Мы нуждаемся в помощи. Выходите и протестуйте против этой бесполезной войны. Остановите кровопролитие. Скажите "Нет войне!"
-> 
-> ## 🇺🇸 To Citizens of Russia
-> 
-> We at Laminas come from all over the world. Many of us have friends, family and colleagues in both Russia and Ukraine. Some of us were born in Russia. Some of us currently live in Russia. Some have grandparents who fought Nazis in World War II. Nobody here supports fascism.
-> 
-> One team member has a Ukrainian relative who fled her home with her son. The train was delayed due to bombing on the road ahead. We have friends who are hiding in bomb shelters. We anxiously follow up on them after the air raids, which indiscriminately fire at hospitals, schools, kindergartens and houses. We're not taking this from any media. These are our actual experiences.
-> 
-> You trust us enough to use our software. We ask that you trust us to say the truth on this. We need your help. Go out and protest this unnecessary war. Stop the bloodshed. Say "stop the war!"
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nyakkon&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p>
 
-This repository contains templates used by all (or most) repositories in this
-organization.
+- 🌱 I’m currently learning **C#**, **Python**, and **Java**  
+- 💬 Ask me about **PHP**,**C#**, Python, and Java**  
+- 📫 How to reach me **miko@wibu.me**  
+- ⚡ Fun fact **I believe debugging is an art! 🎨**  
 
-In particular:
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/yourlinkedinprofile" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="40" width="40" /></a>
+<a href="https://github.com/Nyakkon" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" height="40" width="40" /></a>
+</p>
 
-- Community Health Files:
-  - [Backwards Compatibility Break Template](.github/ISSUE_TEMPLATE/BC_Break.md)
-  - [Bug Template](.github/ISSUE_TEMPLATE/Bug.md)
-  - [Code of Conduct](CODE_OF_CONDUCT.md)
-  - [Contributing Guidelines](CONTRIBUTING.md)
-  - [Feature Request Template](.github/ISSUE_TEMPLATE/Feature_Request.md)
-  - [Getting Support](SUPPORT.md)
-  - [Pull Request Template](.github/PULL_REQUEST_TEMPLATE.md)
-  - [Security Policy](SECURITY.md)
-- Travis Build Templates:
-  - [Supported PHP versions build template](travis/supported.yml)
-- Shared Tool Configurations:
-  - [Renovate](RENOVATE.md)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40" />
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
+  </a>
+  <a href="https://python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
+  </a>
+  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
+  </a>
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nyakkon&show_icons=true&locale=en&layout=compact" alt="top languages" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nyakkon&show_icons=true&locale=en" alt="github stats" /></p>
+
+---
+
+📚 I’m studying Software Engineering at **FPT University**, Quận 9 campus. While coding is fun, I’m still working on speeding up my debugging process! 🛠️  
+🐣 My projects (aka "treasures" on GitHub):  
+Most of my work is available under the MIT License. Feel free to explore, but here’s what you’ll need:  
+- 🖥️ Basic knowledge of **Javascript** and **Frontend Development**  
+- 🐍 Familiarity with **Python, Java, and NodeJS**  
+- 🧑‍💻 A few basic commands in **Ubuntu**  
+👉 Visit my GitHub: [Nyakkon](https://github.com/Nyakkon)  
+
+💻 What I’m tinkering with:  
+- 🐍 Building software with Python & C#  
+- ☕ Backend development with PHP & Java  
+
+🌐 Websites I’ve worked on (but now retired):  
+- 🏡 [https://wibu.me](https://wibu.me) (closed, but still holds a special place 💖)  
