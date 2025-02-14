@@ -18,7 +18,7 @@ release prior to any public exposure; this helps protect the project's
 users, and provides them with a chance to upgrade and/or update in order to
 protect their applications.
 
-For sensitive email communications, please use
+For sensitive communications, please use
 [Facebook](https://facebook.com/nyakko.neko).
 
 ## Policy
