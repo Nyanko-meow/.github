@@ -18,8 +18,7 @@ release prior to any public exposure; this helps protect the project's
 users, and provides them with a chance to upgrade and/or update in order to
 protect their applications.
 
-For sensitive communications, please use
-[Facebook](https://facebook.com/nyakko.neko).
+For more sensitive communications regarding the Project or repositories, please use [Telegram](https://https://t.me/nyakkome).
 
 ## Policy
 
