@@ -12,14 +12,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/Nyakkon" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" height="40" width="40" /></a>
-<a href="https://web.facebook.com/nyakko.neko/" target="blank">
+<a href="https://github.com/Nyakkon" style="text-decoration: none; target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" height="40" width="40" /></a>
+<a href="https://web.facebook.com/nyakko.neko/" target="blank" style="text-decoration: none;>
   <img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="facebook" height="40" width="40" />
 </a>
 <a href="https://zaloapp.com/qr/p/d5zlywo2uwg1" target="blank" style="text-decoration: none;">
   <img align="center" src="https://img.icons8.com/color/452/zalo.png" alt="zalo" height="50" width="50" />
 </a>
-<a href="https://t.me/nyakkome" target="blank">
+<a href="https://t.me/nyakkome" target="blank" style="text-decoration: none;>
   <img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="telegram" height="40" width="40" />
 </a>
 
