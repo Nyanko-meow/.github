@@ -1,31 +1,78 @@
-# Laminas Project, the enterprise-ready PHP Framework and components
+<h1 align="center">Hello 👋, I'm [Your Name]</h1>
+<h3 align="center">A passionate Software Engineering student from FPT University</h3>
+<p align="center">I enjoy creating clean and efficient code while learning new technologies to improve myself every day!</p>
+<img align="right" alt="Coding" width="330" src="https://media.discordapp.net/attachments/1253565073495167088/1284369983173951520/a_4dd6176c8e30f40bf741cb3e71dca4ef.gif?ex=67b017c2&is=67aec642&hm=d045550387f134e655d98ff4c578bd26ec3c7458b9c789091143c845176a2f5a&=&width=406&height=406">
 
-A community-supported, open source continuation of Zend Framework.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nyakkon&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p>
 
-https://getlaminas.org
+- 🌱 I’m currently learning **C#**, **Python**, and **Java**  
+- 💬 Ask me about **PHP**,**C#**, Python, and Java**  
+- 📫 How to reach me **miko@wibu.me**  
+- ⚡ Fun fact **I believe debugging is an art! 🎨**  
 
-> ## 🇷🇺 Русским гражданам
-> 
-> Мы, участники Laminas, родились и живем в разных странах. У многих из нас есть друзья, родственники и коллеги как в России, так и в Украине. Некоторые из нас родились в России. Некоторые из нас живут в России. У некоторых бабушки и дедушки сражались с фашистами во Второй мировой войне. Здесь никто не поддерживает фашизм.
-> 
-> У одного из нас есть украинская родственница, которая спаслась из дома вместе с сыном. Поезд задержался из-за бомбежки на дороге впереди. У нас есть друзья, которые прячутся в бомбоубежищах. Мы с тревогой ждем весточки от них после воздушных налетов, которые беспорядочно наносят удары и попадают по больницам, школам, детским садам и домам. Мы не берем это из каких-либо СМИ. Мы наблюдаем это напрямую.
-> 
-> Вы доверяете нам достаточно, чтоб использовать наши программы, и мы просим вас довериться нам вновь. Мы нуждаемся в помощи. Выходите и протестуйте против этой бесполезной войны. Остановите кровопролитие. Скажите "Нет войне!"
-> 
-> ## 🇺🇸 To Citizens of Russia
-> 
-> We at Laminas come from all over the world. Many of us have friends, family and colleagues in both Russia and Ukraine. Some of us were born in Russia. Some of us currently live in Russia. Some have grandparents who fought Nazis in World War II. Nobody here supports fascism.
-> 
-> One team member has a Ukrainian relative who fled her home with her son. The train was delayed due to bombing on the road ahead. We have friends who are hiding in bomb shelters. We anxiously follow up on them after the air raids, which indiscriminately fire at hospitals, schools, kindergartens and houses. We're not taking this from any media. These are our actual experiences.
-> 
-> You trust us enough to use our software. We ask that you trust us to say the truth on this. We need your help. Go out and protest this unnecessary war. Stop the bloodshed. Say "stop the war!"
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/Nyakkon" style="text-decoration: none;" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" height="40" width="40" /></a>
+<a href="https://web.facebook.com/nyakko.neko/" target="blank" style="text-decoration: none;">
+  <img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="facebook" height="40" width="40" />
+</a>
+<a href="https://zaloapp.com/qr/p/d5zlywo2uwg1" target="blank" style="text-decoration: none;">
+  <img align="center" src="https://img.icons8.com/color/452/zalo.png" alt="zalo" height="50" width="50" />
+</a>
+<a href="https://t.me/nyakkome" target="blank" style="text-decoration: none;">
+  <img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="telegram" height="40" width="40" />
+</a>
 
-## Documentation
+</p>
 
-Documentation is available at: https://docs.laminas.dev
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40" />
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
+  </a>
+  <a href="https://python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
+  </a>
+  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
+  </a>
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" />
+  </a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
+  </a>
+  <a href="https://learn.microsoft.com/en-us/sql/sql-server/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="sqlserver" width="40" height="40" />
+  </a>
+</p>
 
-## Contributing and Support
 
-- If you need support with the project, read [the support documentation](https://github.com/laminas/.github/blob/main/SUPPORT.md).
-- If you wish to contribute to the project, read the [contributing guidelines](https://github.com/laminas/.github/blob/main/CONTRIBUTING.md) as well as the [Code of Conduct](https://github.com/laminas/.github/blob/main/CODE_OF_CONDUCT.md).
-- For reporting security issues, please review our [security policy](https://github.com/laminas/.github/blob/main/SECURITY.md).
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nyakkon&show_icons=true&locale=en&layout=compact" alt="top languages" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nyakkon&show_icons=true&locale=en" alt="github stats" /></p>
+
+---
+
+📚 I’m studying Software Engineering at **FPT University**, Quận 9 campus. While coding is fun, I’m still working on speeding up my debugging process! 🛠️  
+🐣 My projects (aka "treasures" on GitHub):  
+Most of my work is available under the MIT License. Feel free to explore, but here’s what you’ll need:  
+- 🖥️ Basic knowledge of **Javascript** and **Frontend Development**  
+- 🐍 Familiarity with **Python, Java, and NodeJS**  
+- 🧑‍💻 A few basic commands in **Ubuntu**  
+👉 Visit my GitHub: [Nyakkon](https://github.com/Nyakkon)  
+
+💻 What I’m tinkering with:  
+- 🐍 Building software with Python & C#  
+- ☕ Backend development with PHP & Java  
+
+🌐 Websites I’ve worked on (but now retired):  
+- 🏡 [https://wibu.me](https://wibu.me) (closed, but still holds a special place 💖)  
